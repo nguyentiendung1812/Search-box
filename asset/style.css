@@ -45,6 +45,9 @@ body{
     border: none;
     outline: none;
 }
+.search-box__btn:hover{
+    cursor: pointer;
+}
 .show_search-box{
     width: 400px;
     height: 70px;
